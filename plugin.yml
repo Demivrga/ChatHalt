@@ -1,0 +1,7 @@
+name: ChatHalt
+main: chathalt.Demonly.me.main
+author: Angelz
+version: 0.1
+commands:
+  Chat:
+    description: Basic information
